@@ -1,0 +1,30 @@
+style 
+.Main-heading {
+    text-align: left;
+    size: 24;
+}
+#First-Paragraph {
+color: darkmagenta;
+text-align: left;
+text-decoration-line: underline;}
+.Main-Heading2{
+    font-weight: bolder;
+}
+.Main-Heading3{
+    font-weight: bolder;
+}
+.btn{
+    border-color: azure;
+    border: 20px;
+    margin: 20px;
+    size: 100px;
+}
+.rel-img1{
+    height: 150px;
+    width: 150px;
+}
+.learn{
+    color: aquamarine;
+    text-decoration: underline;
+    text-align: left;
+}
